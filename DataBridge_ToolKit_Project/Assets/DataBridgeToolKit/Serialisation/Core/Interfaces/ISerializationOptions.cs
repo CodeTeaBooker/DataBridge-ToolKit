@@ -1,6 +1,6 @@
-using DevToolkit.Serialization.Core.Enums;
+using DataBridgeToolKit.Serialization.Core.Enums;
 
-namespace DevToolkit.Serialization.Core.Interfaces
+namespace DataBridgeToolKit.Serialization.Core.Interfaces
 {
     public interface ISerializationOptions
     {

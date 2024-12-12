@@ -1,9 +1,9 @@
-using DevToolkit.Serialization.Core.Enums;
-using DevToolkit.Serialization.Core.Interfaces;
+using DataBridgeToolKit.Serialization.Core.Enums;
+using DataBridgeToolKit.Serialization.Core.Interfaces;
 using Newtonsoft.Json;
 using System;
 
-namespace DevToolkit.Serialization.Implementations.Options
+namespace DataBridgeToolKit.Serialization.Implementations.Options
 {
     public sealed class JsonSerializationOptions : ISerializationOptions
     {

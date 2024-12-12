@@ -1,10 +1,10 @@
-using DevToolkit.Serialization.Core.Exceptions;
-using DevToolkit.Serialization.Core.Interfaces;
+using DataBridgeToolKit.Serialization.Core.Exceptions;
+using DataBridgeToolKit.Serialization.Core.Interfaces;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DevToolkit.Serialization.Core.Abstractions
+namespace DataBridgeToolKit.Serialization.Core.Abstractions
 {
     public abstract class BaseDataConverter<TData, TOptions> : IDataConverter<TData>
         where TOptions : class, ISerializationOptions

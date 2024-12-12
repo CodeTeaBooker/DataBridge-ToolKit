@@ -1,5 +1,5 @@
-using DevToolkit.Serialization.Core.Abstractions;
-using DevToolkit.Serialization.Implementations.Options;
+using DataBridgeToolKit.Serialization.Core.Abstractions;
+using DataBridgeToolKit.Serialization.Implementations.Options;
 using MessagePack;
 using System;
 using System.Buffers;
@@ -7,7 +7,7 @@ using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DevToolkit.Serialization.Implementations.Converters
+namespace DataBridgeToolKit.Serialization.Implementations.Converters
 {
     public class MsgPackDataConverter<TData> : BaseDataConverter<TData, MsgPackSerializationOptions>
     {

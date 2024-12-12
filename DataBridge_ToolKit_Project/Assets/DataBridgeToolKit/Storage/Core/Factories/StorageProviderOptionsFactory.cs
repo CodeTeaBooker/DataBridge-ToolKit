@@ -1,10 +1,10 @@
-using DevToolkit.Storage.Core.Enums;
-using DevToolkit.Storage.Core.Interfaces;
-using DevToolkit.Storage.Options;
+using DataBridgeToolKit.Storage.Core.Enums;
+using DataBridgeToolKit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Options;
 using System;
 using System.IO;
 
-namespace DevToolkit.Storage.Core.Factories
+namespace DataBridgeToolKit.Storage.Core.Factories
 {
     public class StorageProviderOptionsFactory : IStorageProviderOptionsFactory
     {

@@ -1,4 +1,4 @@
-namespace DevToolkit.Serialization.Core.Enums
+namespace DataBridgeToolKit.Serialization.Core.Enums
 {
     public enum SerializationFormat
     {

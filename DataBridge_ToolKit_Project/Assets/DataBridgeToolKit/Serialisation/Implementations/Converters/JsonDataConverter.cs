@@ -1,6 +1,6 @@
-using DevToolkit.Serialization.Core.Abstractions;
-using DevToolkit.Serialization.Core.Exceptions;
-using DevToolkit.Serialization.Implementations.Options;
+using DataBridgeToolKit.Serialization.Core.Abstractions;
+using DataBridgeToolKit.Serialization.Core.Exceptions;
+using DataBridgeToolKit.Serialization.Implementations.Options;
 using Newtonsoft.Json;
 using System;
 using System.IO;
@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DevToolkit.Serialization.Implementations.Converters
+namespace DataBridgeToolKit.Serialization.Implementations.Converters
 {
     public class JsonDataConverter<TData> : BaseDataConverter<TData, JsonSerializationOptions>
     {

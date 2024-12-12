@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace DevToolkit.Storage.Utils
+namespace DataBridgeToolKit.Storage.Utils
 {
     public sealed class StoragePath : IEquatable<StoragePath>, IDisposable
     {

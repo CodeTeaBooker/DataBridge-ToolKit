@@ -1,8 +1,8 @@
-using DevToolkit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Core.Interfaces;
 using System;
 
 
-namespace DevToolkit.Storage.Implementations
+namespace DataBridgeToolKit.Storage.Implementations
 {
     public class CloudStorageProvider : IStorageProvider
     {

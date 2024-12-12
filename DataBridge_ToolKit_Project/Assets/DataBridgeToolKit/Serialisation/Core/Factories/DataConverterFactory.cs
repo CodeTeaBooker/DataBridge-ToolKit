@@ -1,10 +1,10 @@
-using DevToolkit.Serialization.Core.Enums;
-using DevToolkit.Serialization.Core.Interfaces;
-using DevToolkit.Serialization.Implementations.Converters;
-using DevToolkit.Serialization.Implementations.Options;
+using DataBridgeToolKit.Serialization.Core.Enums;
+using DataBridgeToolKit.Serialization.Core.Interfaces;
+using DataBridgeToolKit.Serialization.Implementations.Converters;
+using DataBridgeToolKit.Serialization.Implementations.Options;
 using System;
 
-namespace DevToolkit.Serialization.Core.Factories
+namespace DataBridgeToolKit.Serialization.Core.Factories
 {
     public class DataConverterFactory : IDataConverterFactory
     {

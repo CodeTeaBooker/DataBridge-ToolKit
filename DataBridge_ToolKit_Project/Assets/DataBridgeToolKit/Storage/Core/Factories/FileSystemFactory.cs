@@ -1,10 +1,10 @@
-using DevToolkit.Storage.Core.Interfaces;
-using DevToolkit.Storage.Options;
-using DevToolkit.Storage.Implementations;
+using DataBridgeToolKit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Options;
+using DataBridgeToolKit.Storage.Implementations;
 using System;
 using System.Collections.Concurrent;
 
-namespace DevToolkit.Storage.Core.Factories
+namespace DataBridgeToolKit.Storage.Core.Factories
 {
     public static class FileSystemFactory
     {

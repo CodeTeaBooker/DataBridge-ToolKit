@@ -422,9 +422,9 @@
 //    }
 //}
 
-using DevToolkit.Serialization.Core.Exceptions;
-using DevToolkit.Serialization.Implementations.Options;
-using DevToolkit.Tests.Core.Utils;
+using DataBridgeToolKit.Serialization.Core.Exceptions;
+using DataBridgeToolKit.Serialization.Implementations.Options;
+using DataBridgeToolKit.Tests.Core.Utils;
 using MessagePack;
 using NUnit.Framework;
 using System;
@@ -436,7 +436,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using UnityEngine.TestTools;
 
-namespace DevToolkit.Serialization.Implementations.Converters.Tests
+namespace DataBridgeToolKit.Serialization.Implementations.Converters.Tests
 {
     [TestFixture]
     [Category("Serialization")]

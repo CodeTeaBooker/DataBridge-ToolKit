@@ -1,5 +1,5 @@
-using DevToolkit.Storage.Implementations;
-using DevToolkit.Tests.Core.Utils;
+using DataBridgeToolKit.Storage.Implementations;
+using DataBridgeToolKit.Tests.Core.Utils;
 using NUnit.Framework;
 using System;
 using System.Collections;
@@ -10,7 +10,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using UnityEngine.TestTools;
 
-namespace DevToolkit.Storage.Implementations.Tests
+namespace DataBridgeToolKit.Storage.Implementations.Tests
 {
     [TestFixture]
     public class ConcurrentLockManagerTests

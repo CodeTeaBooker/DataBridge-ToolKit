@@ -1,9 +1,9 @@
-using DevToolkit.Tests.Core.Utils;
+using DataBridgeToolKit.Tests.Core.Utils;
 using NUnit.Framework;
 using System.Text;
 using System.Xml;
 
-namespace DevToolkit.Serialization.Implementations.Options.Tests
+namespace DataBridgeToolKit.Serialization.Implementations.Options.Tests
 {
     [TestFixture]
     [Category("Serialization")]

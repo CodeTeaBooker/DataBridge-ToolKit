@@ -1,5 +1,5 @@
-using DevToolkit.Storage.Core.Exceptions;
-using DevToolkit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Core.Exceptions;
+using DataBridgeToolKit.Storage.Core.Interfaces;
 using Nito.AsyncEx;
 using System;
 using System.Collections.Concurrent;
@@ -7,7 +7,7 @@ using System.Runtime.CompilerServices;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DevToolkit.Storage.Implementations
+namespace DataBridgeToolKit.Storage.Implementations
 {
    
 

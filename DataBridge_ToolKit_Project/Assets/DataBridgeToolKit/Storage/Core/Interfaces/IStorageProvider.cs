@@ -1,6 +1,6 @@
 using System;
 
-namespace DevToolkit.Storage.Core.Interfaces
+namespace DataBridgeToolKit.Storage.Core.Interfaces
 {
     /// <summary>
     /// Provides factory methods to create storage readers and writers.

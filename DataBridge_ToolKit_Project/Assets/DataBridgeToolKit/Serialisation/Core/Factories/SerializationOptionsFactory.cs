@@ -1,10 +1,10 @@
-using DevToolkit.Serialization.Core.Enums;
-using DevToolkit.Serialization.Core.Interfaces;
-using DevToolkit.Serialization.Implementations.Options;
+using DataBridgeToolKit.Serialization.Core.Enums;
+using DataBridgeToolKit.Serialization.Core.Interfaces;
+using DataBridgeToolKit.Serialization.Implementations.Options;
 
 
 
-namespace DevToolkit.Serialization.Core.Factories
+namespace DataBridgeToolKit.Serialization.Core.Factories
 {
     public class SerializationOptionsFactory : ISerializationOptionsFactory
     {

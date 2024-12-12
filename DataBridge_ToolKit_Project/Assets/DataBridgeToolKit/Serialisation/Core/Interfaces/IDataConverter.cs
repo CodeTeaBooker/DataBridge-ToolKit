@@ -1,7 +1,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DevToolkit.Serialization.Core.Interfaces
+namespace DataBridgeToolKit.Serialization.Core.Interfaces
 {
     public interface IDataConverter<TData>
     {

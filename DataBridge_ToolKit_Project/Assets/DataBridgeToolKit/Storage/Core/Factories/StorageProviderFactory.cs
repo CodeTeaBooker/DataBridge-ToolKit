@@ -1,13 +1,13 @@
-using DevToolkit.Storage.Core.Enums;
-using DevToolkit.Storage.Core.Exceptions;
-using DevToolkit.Storage.Core.Interfaces;
-using DevToolkit.Storage.Implementations;
-using DevToolkit.Storage.Options;
+using DataBridgeToolKit.Storage.Core.Enums;
+using DataBridgeToolKit.Storage.Core.Exceptions;
+using DataBridgeToolKit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Implementations;
+using DataBridgeToolKit.Storage.Options;
 using System;
 
 
 
-namespace DevToolkit.Storage.Core.Factories
+namespace DataBridgeToolKit.Storage.Core.Factories
 {
     public class StorageProviderFactory : IStorageProviderFactory
     {

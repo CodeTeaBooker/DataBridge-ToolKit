@@ -1,9 +1,9 @@
-using DevToolkit.Storage.Core.Factories;
-using DevToolkit.Storage.Core.Interfaces;
-using DevToolkit.Storage.Options;
+using DataBridgeToolKit.Storage.Core.Factories;
+using DataBridgeToolKit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Options;
 using System;
 
-namespace DevToolkit.Storage.Implementations
+namespace DataBridgeToolKit.Storage.Implementations
 {
     public class LocalStorageProvider : IStorageProvider
     {

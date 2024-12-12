@@ -1,6 +1,6 @@
-using DevToolkit.Serialization.Core.Abstractions;
-using DevToolkit.Serialization.Core.Exceptions;
-using DevToolkit.Serialization.Implementations.Options;
+using DataBridgeToolKit.Serialization.Core.Abstractions;
+using DataBridgeToolKit.Serialization.Core.Exceptions;
+using DataBridgeToolKit.Serialization.Implementations.Options;
 using System;
 using System.IO;
 using System.Threading;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace DevToolkit.Serialization.Implementations.Converters
+namespace DataBridgeToolKit.Serialization.Implementations.Converters
 {
     public sealed class XmlDataConverter<TData> : BaseDataConverter<TData, XmlSerializationOptions>
     {

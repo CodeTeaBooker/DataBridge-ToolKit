@@ -1,9 +1,9 @@
-using DevToolkit.Serialization.Core.Enums;
-using DevToolkit.Serialization.Implementations.Options;
+using DataBridgeToolKit.Serialization.Core.Enums;
+using DataBridgeToolKit.Serialization.Implementations.Options;
 using NUnit.Framework;
 using System;
 
-namespace DevToolkit.Serialization.Core.Factories.Tests
+namespace DataBridgeToolKit.Serialization.Core.Factories.Tests
 {
     [TestFixture]
     public class SerializationOptionsFactoryTests

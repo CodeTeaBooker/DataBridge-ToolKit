@@ -1,12 +1,12 @@
-using DevToolkit.Storage.Core.Interfaces;
-using DevToolkit.Storage.Implementations;
-using DevToolkit.Storage.Options;
+using DataBridgeToolKit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Implementations;
+using DataBridgeToolKit.Storage.Options;
 using NUnit.Framework;
 using System;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace DevToolkit.Storage.Core.Factories.Tests
+namespace DataBridgeToolKit.Storage.Core.Factories.Tests
 {
     [TestFixture]
     public class FileSystemFactoryTests

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 
-namespace DevToolkit.Storage.Utils
+namespace DataBridgeToolKit.Storage.Utils
 {
  
     public sealed class ValidationResult : IDisposable

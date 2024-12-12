@@ -1,6 +1,6 @@
 using System;
 
-namespace DevToolkit.Storage.Core.Interfaces
+namespace DataBridgeToolKit.Storage.Core.Interfaces
 {
     public interface IPlatformPathRules
     {

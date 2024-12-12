@@ -1,6 +1,6 @@
 using System;
 
-namespace DevToolkit.Storage.Core.Exceptions
+namespace DataBridgeToolKit.Storage.Core.Exceptions
 {
     public class StorageConfigurationException : Exception
     {

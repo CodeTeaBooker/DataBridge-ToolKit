@@ -3,7 +3,7 @@ using System.Collections;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DevToolkit.Tests.Core.Utils
+namespace DataBridgeToolKit.Tests.Core.Utils
 {
     public static class AsyncTestUtilities
     {

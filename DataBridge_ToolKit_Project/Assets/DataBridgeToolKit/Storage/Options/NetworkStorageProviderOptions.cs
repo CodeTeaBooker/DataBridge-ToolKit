@@ -1,9 +1,9 @@
-using DevToolkit.Storage.Core.Enums;
-using DevToolkit.Storage.Core.Exceptions;
-using DevToolkit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Core.Enums;
+using DataBridgeToolKit.Storage.Core.Exceptions;
+using DataBridgeToolKit.Storage.Core.Interfaces;
 using System;
 
-namespace DevToolkit.Storage.Options
+namespace DataBridgeToolKit.Storage.Options
 {
     public class NetworkStorageProviderOptions : IStorageProviderOptions
     {

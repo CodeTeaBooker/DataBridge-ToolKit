@@ -1,8 +1,8 @@
-using DevToolkit.Serialization.Core.Enums;
-using DevToolkit.Serialization.Core.Interfaces;
+using DataBridgeToolKit.Serialization.Core.Enums;
+using DataBridgeToolKit.Serialization.Core.Interfaces;
 using MessagePack;
 
-namespace DevToolkit.Serialization.Implementations.Options
+namespace DataBridgeToolKit.Serialization.Implementations.Options
 {
     public sealed class MsgPackSerializationOptions : ISerializationOptions
     {

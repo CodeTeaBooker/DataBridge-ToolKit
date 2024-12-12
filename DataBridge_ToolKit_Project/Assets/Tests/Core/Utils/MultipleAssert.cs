@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DevToolkit.Tests.Core.Utils
+namespace DataBridgeToolKit.Tests.Core.Utils
 {
     public static class MultipleAssert
     {

@@ -1,11 +1,11 @@
-using DevToolkit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Core.Interfaces;
 using System;
 using System.IO;
 using System.Security;
 
 
 
-namespace DevToolkit.Storage.Core.Abstractions
+namespace DataBridgeToolKit.Storage.Core.Abstractions
 {
     public abstract class LocalStorageBase
     {

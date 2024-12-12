@@ -1,4 +1,4 @@
-using DevToolkit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Core.Interfaces;
 using System;
 using System.IO;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Runtime.CompilerServices;
 
-namespace DevToolkit.Storage.Implementations
+namespace DataBridgeToolKit.Storage.Implementations
 {
     public class SecureFileSystem : IFileSystem
     {

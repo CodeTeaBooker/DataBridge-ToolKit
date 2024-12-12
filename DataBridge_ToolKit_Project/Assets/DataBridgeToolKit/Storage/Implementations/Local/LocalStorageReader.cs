@@ -1,11 +1,11 @@
-using DevToolkit.Storage.Core.Abstractions;
-using DevToolkit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Core.Abstractions;
+using DataBridgeToolKit.Storage.Core.Interfaces;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
 
 
-namespace DevToolkit.Storage.Implementations
+namespace DataBridgeToolKit.Storage.Implementations
 {
     public class LocalStorageReader : LocalStorageBase, IStorageReader
     {

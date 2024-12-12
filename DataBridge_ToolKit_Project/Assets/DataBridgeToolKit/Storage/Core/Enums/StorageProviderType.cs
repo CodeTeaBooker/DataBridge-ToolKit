@@ -1,4 +1,4 @@
-namespace DevToolkit.Storage.Core.Enums
+namespace DataBridgeToolKit.Storage.Core.Enums
 {
     public enum StorageProviderType
     {

@@ -1,16 +1,16 @@
-using DevToolkit.Serialization.Core.Enums;
-using DevToolkit.Serialization.Core.Factories;
-using DevToolkit.Serialization.Core.Interfaces;
-using DevToolkit.Storage.Core.Enums;
-using DevToolkit.Storage.Core.Factories;
-using DevToolkit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Serialization.Core.Enums;
+using DataBridgeToolKit.Serialization.Core.Factories;
+using DataBridgeToolKit.Serialization.Core.Interfaces;
+using DataBridgeToolKit.Storage.Core.Enums;
+using DataBridgeToolKit.Storage.Core.Factories;
+using DataBridgeToolKit.Storage.Core.Interfaces;
 using System;
 using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 
 
-namespace DevToolkit.Services.Implementations
+namespace DataBridgeToolKit.Services.Implementations
 {
     public class DataStorageService<T> : IDisposable
     {

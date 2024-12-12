@@ -1,6 +1,6 @@
-using DevToolkit.Storage.Utils;
+using DataBridgeToolKit.Storage.Utils;
 
-namespace DevToolkit.Storage.Core.Interfaces
+namespace DataBridgeToolKit.Storage.Core.Interfaces
 {
     public interface IPathValidator
     {

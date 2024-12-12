@@ -1,6 +1,6 @@
 using System;
 
-namespace DevToolkit.Serialization.Core.Exceptions
+namespace DataBridgeToolKit.Serialization.Core.Exceptions
 {
     /// <summary>
     /// Base exception for serialization-related errors.

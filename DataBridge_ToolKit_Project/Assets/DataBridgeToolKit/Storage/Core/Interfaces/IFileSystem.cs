@@ -3,7 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 
-namespace DevToolkit.Storage.Core.Interfaces
+namespace DataBridgeToolKit.Storage.Core.Interfaces
 {
     public interface IFileSystem : IDisposable
     {

@@ -1,11 +1,11 @@
-using DevToolkit.Tests.Core.Utils;
+using DataBridgeToolKit.Tests.Core.Utils;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DevToolkit.Storage.Utils.Tests
+namespace DataBridgeToolKit.Storage.Utils.Tests
 {
     [TestFixture]
     [Category("StoragePath")]

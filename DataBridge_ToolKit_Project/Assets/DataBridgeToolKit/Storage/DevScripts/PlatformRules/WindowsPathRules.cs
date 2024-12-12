@@ -1,9 +1,9 @@
-using DevToolkit.Storage.Core.Interfaces;
+using DataBridgeToolKit.Storage.Core.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace DevToolkit.Storage.PlatformRules
+namespace DataBridgeToolKit.Storage.PlatformRules
 {
     public sealed class WindowsPathRules : IPlatformPathRules
     {

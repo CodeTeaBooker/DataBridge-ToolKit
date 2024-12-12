@@ -176,17 +176,19 @@ catch (Exception ex)
 
 - [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) v4.1.1
 - [MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) v3.0.300
-- [AsyncEx](https://github.com/GlitchEnzo/NuGetForUnity) v5.1.2
+- [AsyncEx](https://github.com/StephenCleary/AsyncEx.git) v5.1.2
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) v13.0.3
 
 ## Development Roadmap
 
-- [x] Local storage implementation
-- [x] Serialization format compression support
-- [ ] Custom serialization format support
-- [ ] Network storage implementation
-- [ ] Cloud storage implementation
-- [ ] Encryption support
+| Status | Feature |
+|:------:|---------|
+| ✅ | Local storage implementation |
+| ✅ | Serialization format compression support |
+| ⏳ | Custom serialization format support |
+| ⏳ | Network storage implementation |
+| ⏳ | Cloud storage implementation |
+| ⏳ | Encryption support |
 
 ## Contributing
 

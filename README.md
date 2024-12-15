@@ -4,6 +4,11 @@ A modular Unity toolkit for data serialization and storage. Currently supports J
 
 ## Features
 
+- Core DataStorageService
+  - Single unified interface for all data operations
+  - Easy format switching through SerializationFormat enum
+  - Future storage type switching through StorageProviderType enum
+  - Application logic remains unchanged when switching formats or storage types
 - Multiple Serialization Formats Support
   - JSON
   - XML

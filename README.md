@@ -164,19 +164,6 @@ catch (Exception ex)
     Debug.LogError($"Storage operation failed: {ex.Message}");
 }
 ```
-
-## Project Structure
-
-- **Core**
-  - Abstractions: Base abstract classes
-  - Interfaces: Interface definitions
-  - Enums: Enumeration definitions
-  - Exceptions: Custom exception classes
-- **Implementations**
-  - Converters: Data converter implementations
-  - Options: Configuration option classes
-  - Providers: Storage provider implementations
-
 ## Dependencies
 
 - [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) v4.1.1
